@@ -5,10 +5,8 @@ To use it, run the program on a Mining Turtle's prompt as "MiningProgram <X> <Y>
 how big of an area you want it to mine. <Z> is used to tell the turtle how deep to mine.
   
 ### How do I get it on the Mining Turtle in the first place?:
-* Right click the mining turtle
-* Type "edit <Put whatever program name you like>"
-* In the editor, copy paste the text from the .lua file in the repository (You can open the .lua file with any text editor)
-* If you do this once, it should be accessible on every other turtle as the program name you put in the second step 
+* Simply put the .lua file in `.minecraft/mods/ComputerCraft/lua/rom/programs`
+* It should now be accessible on all your turtles
 
 ### Some useful features:
 * The turtle will automatically come back up once it is done
